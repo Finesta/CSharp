@@ -1,0 +1,13 @@
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.exe
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.deps.json
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.runtimeconfig.json
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.dll
+C:\Users\Łukasz\source\repos\4.6\4.6\bin\Debug\netcoreapp3.1\4.6.pdb
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.dll
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.pdb
+C:\Users\Łukasz\source\repos\4.6\4.6\obj\Debug\netcoreapp3.1\4.6.genruntimeconfig.cache
