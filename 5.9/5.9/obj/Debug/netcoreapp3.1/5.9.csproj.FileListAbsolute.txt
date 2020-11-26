@@ -1,0 +1,13 @@
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.exe
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.deps.json
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.runtimeconfig.json
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.runtimeconfig.dev.json
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.dll
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\bin\Debug\netcoreapp3.1\5.9.pdb
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.dll
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.pdb
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\Studia\c#\5.9\5.9\obj\Debug\netcoreapp3.1\5.9.csprojAssemblyReference.cache
